@@ -13,7 +13,7 @@ SWEETS_CATALOG = [
         "unit": "Gift Box (400g)",
         "rating": 5.0,
         "image_url": "/static/images/sweets/kaju_katli.jpg",
-        "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaju_katli_sweet.jpg/960px-Kaju_katli_sweet.jpg",
+        "fallback_url": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
         "in_stock": True
     },
     {
@@ -25,7 +25,7 @@ SWEETS_CATALOG = [
         "unit": "Box of 6 pcs (350g)",
         "rating": 4.9,
         "image_url": "/static/images/sweets/gulab_jamun.jpg",
-        "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gulab-jamun-wallpaper-1.jpg",
+        "fallback_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
         "in_stock": True
     },
     {
@@ -37,7 +37,7 @@ SWEETS_CATALOG = [
         "unit": "Box of 8 pcs (500g)",
         "rating": 4.8,
         "image_url": "/static/images/sweets/rasgulla.jpg",
-        "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Rasgulla.jpg/960px-Rasgulla.jpg",
+        "fallback_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
         "in_stock": True
     },
     {
@@ -49,7 +49,7 @@ SWEETS_CATALOG = [
         "unit": "Box of 12 pcs (500g)",
         "rating": 4.7,
         "image_url": "/static/images/sweets/motichoor_ladoo.jpg",
-        "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Laddu_Sweet.JPG/960px-Laddu_Sweet.JPG",
+        "fallback_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
         "in_stock": True
     },
     {
@@ -61,7 +61,7 @@ SWEETS_CATALOG = [
         "unit": "Box (500g)",
         "rating": 4.8,
         "image_url": "/static/images/sweets/mysore_pak.jpg",
-        "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mysore_pak.jpg/960px-Mysore_pak.jpg",
+        "fallback_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=800&q=80",
         "in_stock": True
     },
     {
@@ -73,7 +73,7 @@ SWEETS_CATALOG = [
         "unit": "Bowl of 4 pcs (400g)",
         "rating": 4.9,
         "image_url": "/static/images/sweets/rasmalai.jpg",
-        "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ras_Malai_2.JPG/960px-Ras_Malai_2.JPG",
+        "fallback_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
         "in_stock": True
     },
     {
@@ -85,7 +85,7 @@ SWEETS_CATALOG = [
         "unit": "Fresh pack (400g)",
         "rating": 4.6,
         "image_url": "/static/images/sweets/crispy_jalebi.jpg",
-        "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%2886%29.jpg/960px-Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%2886%29.jpg",
+        "fallback_url": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
         "in_stock": True
     },
     {
@@ -97,7 +97,7 @@ SWEETS_CATALOG = [
         "unit": "Box (500g)",
         "rating": 4.7,
         "image_url": "/static/images/sweets/mathura_peda.jpg",
-        "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Indian_Sweet_Dessert_Peda_in_a_white_bone_china_plate.jpg/960px-Indian_Sweet_Dessert_Peda_in_a_white_bone_china_plate.jpg",
+        "fallback_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
         "in_stock": True
     }
 ]

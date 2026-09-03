@@ -18,7 +18,7 @@ Follow these steps to deploy this repository to **Netlify**:
 4. Choose the repository for **MithAI Sweet Shop**.
 5. Netlify will automatically detect the configuration from `netlify.toml`:
    - **Base directory**: (leave blank / root)
-   - **Build command**: `mkdir -p dist && cp -r templates/* dist/ && cp -r static dist/ && python3 -m pip install -r requirements.txt`
+   - **Build command**: `npm run build`
    - **Publish directory**: `dist`
    - **Functions directory**: `netlify/functions`
 6. Under **Environment variables**, configure:

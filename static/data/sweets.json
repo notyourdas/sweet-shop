@@ -1,0 +1,101 @@
+{
+  "status": "success",
+  "sweets": [
+    {
+      "id": "sweet_kaju_katli",
+      "name": "Kaju Katli",
+      "price": 420.0,
+      "category": "Dry Fruit & Silver Leaf",
+      "description": "Exquisite diamond-cut fudge handcrafted from premium Goan cashews, pure sugar, and edible silver foil.",
+      "unit": "Gift Box (400g)",
+      "rating": 5.0,
+      "image_url": "/static/images/sweets/kaju_katli.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+      "in_stock": true
+    },
+    {
+      "id": "sweet_gulab_jamun",
+      "name": "Gulab Jamun",
+      "price": 120.0,
+      "category": "Syrup & Warm",
+      "description": "Golden khoya spheres slow-fried in desi ghee, soaked in rose and saffron infused sugar nectar.",
+      "unit": "Box of 6 pcs (350g)",
+      "rating": 4.9,
+      "image_url": "/static/images/sweets/gulab_jamun.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
+      "in_stock": true
+    },
+    {
+      "id": "sweet_rasgulla",
+      "name": "Rasgulla",
+      "price": 140.0,
+      "category": "Syrup & Spongy",
+      "description": "Delicate, spongy Chenna (cottage cheese) balls slow-cooked in clarified light cardamom sugar nectar.",
+      "unit": "Box of 8 pcs (500g)",
+      "rating": 4.8,
+      "image_url": "/static/images/sweets/rasgulla.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+      "in_stock": true
+    },
+    {
+      "id": "sweet_motichoor_ladoo",
+      "name": "Motichoor Ladoo",
+      "price": 180.0,
+      "category": "Desi Ghee Classic",
+      "description": "Melt-in-mouth tiny gram flour pearls fried in pure desi ghee, infused with saffron, melon seeds, and cardamom.",
+      "unit": "Box of 12 pcs (500g)",
+      "rating": 4.7,
+      "image_url": "/static/images/sweets/motichoor_ladoo.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+      "in_stock": true
+    },
+    {
+      "id": "sweet_mysore_pak",
+      "name": "Mysore Pak",
+      "price": 260.0,
+      "category": "Desi Ghee Classic",
+      "description": "Royal South Indian honeycomb delight made from roasted gram flour, generous pure ghee, and caramelized sugar.",
+      "unit": "Box (500g)",
+      "rating": 4.8,
+      "image_url": "/static/images/sweets/mysore_pak.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=800&q=80",
+      "in_stock": true
+    },
+    {
+      "id": "sweet_rasmalai",
+      "name": "Rasmalai",
+      "price": 220.0,
+      "category": "Milk & Cream",
+      "description": "Velvety flattened paneer discs poached in chilled, thick saffron-pistachio rabdi cream.",
+      "unit": "Bowl of 4 pcs (400g)",
+      "rating": 4.9,
+      "image_url": "/static/images/sweets/rasmalai.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+      "in_stock": true
+    },
+    {
+      "id": "sweet_crispy_jalebi",
+      "name": "Crispy Jalebi",
+      "price": 120.0,
+      "category": "Syrup & Crispy",
+      "description": "Crispy spiral coils made from fermented batter, fried crisp in pure ghee and dipped in hot saffron syrup.",
+      "unit": "Fresh pack (400g)",
+      "rating": 4.6,
+      "image_url": "/static/images/sweets/crispy_jalebi.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
+      "in_stock": true
+    },
+    {
+      "id": "sweet_mathura_peda",
+      "name": "Mathura Peda",
+      "price": 200.0,
+      "category": "Khoya Specialties",
+      "description": "Caramelized slow-roasted mawa infused with nutmeg, cardamom, and dusted with fragrant sugar.",
+      "unit": "Box (500g)",
+      "rating": 4.7,
+      "image_url": "/static/images/sweets/mathura_peda.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+      "in_stock": true
+    }
+  ]
+}

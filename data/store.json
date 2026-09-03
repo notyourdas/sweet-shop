@@ -9,7 +9,7 @@
       "unit": "Gift Box (400g)",
       "rating": 5.0,
       "image_url": "/static/images/sweets/kaju_katli.jpg",
-      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaju_katli_sweet.jpg/960px-Kaju_katli_sweet.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
       "in_stock": true
     },
     "sweet_gulab_jamun": {
@@ -21,7 +21,7 @@
       "unit": "Box of 6 pcs (350g)",
       "rating": 4.9,
       "image_url": "/static/images/sweets/gulab_jamun.jpg",
-      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gulab-jamun-wallpaper-1.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
       "in_stock": true
     },
     "sweet_rasgulla": {
@@ -33,7 +33,7 @@
       "unit": "Box of 8 pcs (500g)",
       "rating": 4.8,
       "image_url": "/static/images/sweets/rasgulla.jpg",
-      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Rasgulla.jpg/960px-Rasgulla.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
       "in_stock": true
     },
     "sweet_motichoor_ladoo": {
@@ -45,7 +45,7 @@
       "unit": "Box of 12 pcs (500g)",
       "rating": 4.7,
       "image_url": "/static/images/sweets/motichoor_ladoo.jpg",
-      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Laddu_Sweet.JPG/960px-Laddu_Sweet.JPG",
+      "fallback_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
       "in_stock": true
     },
     "sweet_mysore_pak": {
@@ -57,7 +57,7 @@
       "unit": "Box (500g)",
       "rating": 4.8,
       "image_url": "/static/images/sweets/mysore_pak.jpg",
-      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mysore_pak.jpg/960px-Mysore_pak.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=800&q=80",
       "in_stock": true
     },
     "sweet_rasmalai": {
@@ -69,7 +69,7 @@
       "unit": "Bowl of 4 pcs (400g)",
       "rating": 4.9,
       "image_url": "/static/images/sweets/rasmalai.jpg",
-      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ras_Malai_2.JPG/960px-Ras_Malai_2.JPG",
+      "fallback_url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
       "in_stock": true
     },
     "sweet_crispy_jalebi": {
@@ -81,7 +81,7 @@
       "unit": "Fresh pack (400g)",
       "rating": 4.6,
       "image_url": "/static/images/sweets/crispy_jalebi.jpg",
-      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%2886%29.jpg/960px-Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%2886%29.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=800&q=80",
       "in_stock": true
     },
     "sweet_mathura_peda": {
@@ -93,7 +93,7 @@
       "unit": "Box (500g)",
       "rating": 4.7,
       "image_url": "/static/images/sweets/mathura_peda.jpg",
-      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Indian_Sweet_Dessert_Peda_in_a_white_bone_china_plate.jpg/960px-Indian_Sweet_Dessert_Peda_in_a_white_bone_china_plate.jpg",
+      "fallback_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
       "in_stock": true
     }
   },
@@ -4472,7 +4472,7 @@
       "id": "user_admin_default",
       "name": "Rajesh Sharma (Store Admin)",
       "email": "admin@mithai.com",
-      "password_hash": "scrypt:32768:8:1$rlxAvRowPrUwYYNq$15410acd79e01f3f146e1079b561a6a81a761ca591831b88ccc1a0a58e425a486a444b5ddd37c36bbc9542a3f985a3bbf111bb0fed3c8812687825b8c9a23a9b",
+      "password_hash": "scrypt:32768:8:1$2FKIjiKvvn2YQmu9$e49516ffcaa0954551e48d59f54fe639a3bf343e5b6ff70ab2074e5f75df510ae047cfc2818e9391aa0c0768207e4e7c3ce920ea3a759b7799f772f673df11cd",
       "role": "admin",
       "phone": "+91 98765 43210",
       "created_at": "2026-08-15T10:00:00Z"
@@ -4481,7 +4481,7 @@
       "id": "user_customer_default",
       "name": "Priya Patel",
       "email": "user@mithai.com",
-      "password_hash": "scrypt:32768:8:1$HA3v5DOGTVQ3o0Dl$5fb23356082293ff8912fd4b56444d04f0f5eb6d11c09fa2501d2ac2f53a96afd534208e0888a94dec1c44ed6aa328e3ff4c6654be16655a3626d3ae0f129e89",
+      "password_hash": "scrypt:32768:8:1$VIFYkIFsojHML18y$d46c48287e9a671b6e34f401fefb7158a24d7119ec9b84af9e4a18f90df7022ae1f9053c2ff6a074c19da67ff52096da182568098856f2058752151f63dbaf16",
       "role": "customer",
       "phone": "+91 91234 56789",
       "created_at": "2026-08-20T11:00:00Z"
@@ -4517,7 +4517,7 @@
       "id": "user_admin_rushikesh",
       "name": "Rushikesh Mathkar (Store Admin)",
       "email": "rushikeshphonea17@gmail.com",
-      "password_hash": "scrypt:32768:8:1$4B8pFIqvRq6ngKEu$12994b45e218b2879a51bfc5a88add3989a91a8dcfe9677ee6a71a37e13e13cf7e61a7a972a9ad2befea99b6f11fa927ae0120523f38205b0be1b3129fa78ad1",
+      "password_hash": "scrypt:32768:8:1$ajEQwSMDSDOGO6Yo$1df25074b86b8535fa89c78fd7e54d4e365a1ab9a1109f1bba176b3babf1c76bd0f7b71642aa15b2ebceb0013cd43f5058ebe714d8c6c9617891b1ae02674224",
       "role": "admin",
       "phone": "+91 75881 13244",
       "created_at": "2026-08-15T10:00:00Z"

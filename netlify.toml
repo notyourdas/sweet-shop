@@ -1,36 +1,38 @@
 [build]
-  command = "mkdir -p dist && cp -r templates/* dist/ && cp -r static dist/ && python3 -m pip install -r requirements.txt"
+  command = "npm run build"
   publish = "dist"
   functions = "netlify/functions"
 
 [build.environment]
   PYTHON_VERSION = "3.11"
 
-# Redirect static assets properly
+# 1. Direct high-speed static serving of sweet catalog for 100% reliable images & data
+[[redirects]]
+  from = "/api/sweets"
+  to = "/static/data/sweets.json"
+  status = 200
+
+# 2. Direct static serving for assets and sweet images
 [[redirects]]
   from = "/static/*"
   to = "/static/:splat"
   status = 200
 
-# Proxy all API routes to the Netlify serverless function
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/app/:splat"
-  status = 200
-
-# Proxy admin interface to the serverless function or admin page
+# 3. Admin interface
 [[redirects]]
   from = "/admin"
   to = "/admin.html"
   status = 200
 
+# 4. Proxy API routes to the serverless function
 [[redirects]]
-  from = "/admin/*"
-  to = "/.netlify/functions/app/admin/:splat"
+  from = "/api/*"
+  to = "/.netlify/functions/app/api/:splat"
   status = 200
 
-# Default SPA / static fallback
+# 5. Default SPA / static fallback
 [[redirects]]
-  from = "/"
+  from = "/*"
   to = "/index.html"
   status = 200
+
