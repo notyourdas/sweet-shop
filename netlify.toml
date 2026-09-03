@@ -1,0 +1,36 @@
+[build]
+  command = "mkdir -p dist && cp -r templates/* dist/ && cp -r static dist/ && python3 -m pip install -r requirements.txt"
+  publish = "dist"
+  functions = "netlify/functions"
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
+
+# Redirect static assets properly
+[[redirects]]
+  from = "/static/*"
+  to = "/static/:splat"
+  status = 200
+
+# Proxy all API routes to the Netlify serverless function
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/app/:splat"
+  status = 200
+
+# Proxy admin interface to the serverless function or admin page
+[[redirects]]
+  from = "/admin"
+  to = "/admin.html"
+  status = 200
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/.netlify/functions/app/admin/:splat"
+  status = 200
+
+# Default SPA / static fallback
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200

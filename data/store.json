@@ -1,0 +1,4557 @@
+{
+  "sweets": {
+    "sweet_kaju_katli": {
+      "id": "sweet_kaju_katli",
+      "name": "Kaju Katli",
+      "price": 420.0,
+      "category": "Dry Fruit & Silver Leaf",
+      "description": "Exquisite diamond-cut fudge handcrafted from premium Goan cashews, pure sugar, and edible silver foil.",
+      "unit": "Gift Box (400g)",
+      "rating": 5.0,
+      "image_url": "/static/images/sweets/kaju_katli.jpg",
+      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaju_katli_sweet.jpg/960px-Kaju_katli_sweet.jpg",
+      "in_stock": true
+    },
+    "sweet_gulab_jamun": {
+      "id": "sweet_gulab_jamun",
+      "name": "Gulab Jamun",
+      "price": 120.0,
+      "category": "Syrup & Warm",
+      "description": "Golden khoya spheres slow-fried in desi ghee, soaked in rose and saffron infused sugar nectar.",
+      "unit": "Box of 6 pcs (350g)",
+      "rating": 4.9,
+      "image_url": "/static/images/sweets/gulab_jamun.jpg",
+      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gulab-jamun-wallpaper-1.jpg",
+      "in_stock": true
+    },
+    "sweet_rasgulla": {
+      "id": "sweet_rasgulla",
+      "name": "Rasgulla",
+      "price": 140.0,
+      "category": "Syrup & Spongy",
+      "description": "Delicate, spongy Chenna (cottage cheese) balls slow-cooked in clarified light cardamom sugar nectar.",
+      "unit": "Box of 8 pcs (500g)",
+      "rating": 4.8,
+      "image_url": "/static/images/sweets/rasgulla.jpg",
+      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Rasgulla.jpg/960px-Rasgulla.jpg",
+      "in_stock": true
+    },
+    "sweet_motichoor_ladoo": {
+      "id": "sweet_motichoor_ladoo",
+      "name": "Motichoor Ladoo",
+      "price": 180.0,
+      "category": "Desi Ghee Classic",
+      "description": "Melt-in-mouth tiny gram flour pearls fried in pure desi ghee, infused with saffron, melon seeds, and cardamom.",
+      "unit": "Box of 12 pcs (500g)",
+      "rating": 4.7,
+      "image_url": "/static/images/sweets/motichoor_ladoo.jpg",
+      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Laddu_Sweet.JPG/960px-Laddu_Sweet.JPG",
+      "in_stock": true
+    },
+    "sweet_mysore_pak": {
+      "id": "sweet_mysore_pak",
+      "name": "Mysore Pak",
+      "price": 260.0,
+      "category": "Desi Ghee Classic",
+      "description": "Royal South Indian honeycomb delight made from roasted gram flour, generous pure ghee, and caramelized sugar.",
+      "unit": "Box (500g)",
+      "rating": 4.8,
+      "image_url": "/static/images/sweets/mysore_pak.jpg",
+      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mysore_pak.jpg/960px-Mysore_pak.jpg",
+      "in_stock": true
+    },
+    "sweet_rasmalai": {
+      "id": "sweet_rasmalai",
+      "name": "Rasmalai",
+      "price": 220.0,
+      "category": "Milk & Cream",
+      "description": "Velvety flattened paneer discs poached in chilled, thick saffron-pistachio rabdi cream.",
+      "unit": "Bowl of 4 pcs (400g)",
+      "rating": 4.9,
+      "image_url": "/static/images/sweets/rasmalai.jpg",
+      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ras_Malai_2.JPG/960px-Ras_Malai_2.JPG",
+      "in_stock": true
+    },
+    "sweet_crispy_jalebi": {
+      "id": "sweet_crispy_jalebi",
+      "name": "Crispy Jalebi",
+      "price": 120.0,
+      "category": "Syrup & Crispy",
+      "description": "Crispy spiral coils made from fermented batter, fried crisp in pure ghee and dipped in hot saffron syrup.",
+      "unit": "Fresh pack (400g)",
+      "rating": 4.6,
+      "image_url": "/static/images/sweets/crispy_jalebi.jpg",
+      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%2886%29.jpg/960px-Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%2886%29.jpg",
+      "in_stock": true
+    },
+    "sweet_mathura_peda": {
+      "id": "sweet_mathura_peda",
+      "name": "Mathura Peda",
+      "price": 200.0,
+      "category": "Khoya Specialties",
+      "description": "Caramelized slow-roasted mawa infused with nutmeg, cardamom, and dusted with fragrant sugar.",
+      "unit": "Box (500g)",
+      "rating": 4.7,
+      "image_url": "/static/images/sweets/mathura_peda.jpg",
+      "fallback_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Indian_Sweet_Dessert_Peda_in_a_white_bone_china_plate.jpg/960px-Indian_Sweet_Dessert_Peda_in_a_white_bone_china_plate.jpg",
+      "in_stock": true
+    }
+  },
+  "sales": {
+    "sale_seed_7_7_307": {
+      "id": "sale_seed_7_7_307",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-27T15:29:28Z"
+    },
+    "sale_seed_7_8_959": {
+      "id": "sale_seed_7_8_959",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-27T18:29:27Z"
+    },
+    "sale_seed_7_9_529": {
+      "id": "sale_seed_7_9_529",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-27T11:47:28Z"
+    },
+    "sale_seed_6_0_153": {
+      "id": "sale_seed_6_0_153",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-28T12:25:40Z"
+    },
+    "sale_seed_6_1_846": {
+      "id": "sale_seed_6_1_846",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-28T14:39:34Z"
+    },
+    "sale_seed_6_2_565": {
+      "id": "sale_seed_6_2_565",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 3,
+      "total_price": 780.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-28T13:02:33Z"
+    },
+    "sale_seed_6_3_684": {
+      "id": "sale_seed_6_3_684",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-28T21:08:18Z"
+    },
+    "sale_seed_6_4_616": {
+      "id": "sale_seed_6_4_616",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-28T10:27:13Z"
+    },
+    "sale_seed_6_5_101": {
+      "id": "sale_seed_6_5_101",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-28T20:21:03Z"
+    },
+    "sale_seed_6_6_240": {
+      "id": "sale_seed_6_6_240",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-28T14:11:09Z"
+    },
+    "sale_seed_6_7_100": {
+      "id": "sale_seed_6_7_100",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-28T14:16:35Z"
+    },
+    "sale_seed_6_8_156": {
+      "id": "sale_seed_6_8_156",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-28T13:22:21Z"
+    },
+    "sale_seed_6_9_175": {
+      "id": "sale_seed_6_9_175",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-28T09:17:06Z"
+    },
+    "sale_seed_6_10_226": {
+      "id": "sale_seed_6_10_226",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-28T17:04:36Z"
+    },
+    "sale_seed_6_11_141": {
+      "id": "sale_seed_6_11_141",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-28T18:02:49Z"
+    },
+    "sale_seed_6_12_269": {
+      "id": "sale_seed_6_12_269",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-28T13:08:48Z"
+    },
+    "sale_seed_5_0_463": {
+      "id": "sale_seed_5_0_463",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 3,
+      "total_price": 1260.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-29T20:59:46Z"
+    },
+    "sale_seed_5_1_630": {
+      "id": "sale_seed_5_1_630",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-29T15:45:21Z"
+    },
+    "sale_seed_5_2_462": {
+      "id": "sale_seed_5_2_462",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-29T13:50:59Z"
+    },
+    "sale_seed_5_3_863": {
+      "id": "sale_seed_5_3_863",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-29T09:17:53Z"
+    },
+    "sale_seed_5_4_301": {
+      "id": "sale_seed_5_4_301",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-29T12:47:49Z"
+    },
+    "sale_seed_5_5_854": {
+      "id": "sale_seed_5_5_854",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-29T13:20:19Z"
+    },
+    "sale_seed_5_6_173": {
+      "id": "sale_seed_5_6_173",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-29T09:15:11Z"
+    },
+    "sale_seed_5_7_582": {
+      "id": "sale_seed_5_7_582",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-29T12:07:55Z"
+    },
+    "sale_seed_5_8_785": {
+      "id": "sale_seed_5_8_785",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-29T09:27:00Z"
+    },
+    "sale_seed_5_9_923": {
+      "id": "sale_seed_5_9_923",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-29T20:59:50Z"
+    },
+    "sale_seed_5_10_123": {
+      "id": "sale_seed_5_10_123",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-29T16:30:41Z"
+    },
+    "sale_seed_5_11_762": {
+      "id": "sale_seed_5_11_762",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-29T15:13:19Z"
+    },
+    "sale_seed_5_12_170": {
+      "id": "sale_seed_5_12_170",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-29T21:19:16Z"
+    },
+    "sale_seed_4_0_284": {
+      "id": "sale_seed_4_0_284",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 4,
+      "total_price": 800.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-30T09:35:46Z"
+    },
+    "sale_seed_4_1_156": {
+      "id": "sale_seed_4_1_156",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-30T16:40:51Z"
+    },
+    "sale_seed_4_2_196": {
+      "id": "sale_seed_4_2_196",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-30T14:38:27Z"
+    },
+    "sale_seed_4_3_829": {
+      "id": "sale_seed_4_3_829",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-30T10:55:14Z"
+    },
+    "sale_seed_4_4_805": {
+      "id": "sale_seed_4_4_805",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-30T09:49:36Z"
+    },
+    "sale_seed_4_5_208": {
+      "id": "sale_seed_4_5_208",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-30T12:22:52Z"
+    },
+    "sale_seed_4_6_516": {
+      "id": "sale_seed_4_6_516",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-30T20:07:28Z"
+    },
+    "sale_seed_4_7_346": {
+      "id": "sale_seed_4_7_346",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-30T20:09:31Z"
+    },
+    "sale_seed_4_8_723": {
+      "id": "sale_seed_4_8_723",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-30T09:02:01Z"
+    },
+    "sale_seed_4_9_768": {
+      "id": "sale_seed_4_9_768",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-30T11:43:06Z"
+    },
+    "sale_seed_4_10_180": {
+      "id": "sale_seed_4_10_180",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-30T13:13:58Z"
+    },
+    "sale_seed_4_11_834": {
+      "id": "sale_seed_4_11_834",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-30T15:34:12Z"
+    },
+    "sale_seed_4_12_769": {
+      "id": "sale_seed_4_12_769",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-30T15:24:48Z"
+    },
+    "sale_seed_4_13_295": {
+      "id": "sale_seed_4_13_295",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-30T19:52:29Z"
+    },
+    "sale_seed_3_0_821": {
+      "id": "sale_seed_3_0_821",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T17:37:41Z"
+    },
+    "sale_seed_3_1_563": {
+      "id": "sale_seed_3_1_563",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-31T09:44:03Z"
+    },
+    "sale_seed_3_2_672": {
+      "id": "sale_seed_3_2_672",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-31T14:51:25Z"
+    },
+    "sale_seed_3_3_156": {
+      "id": "sale_seed_3_3_156",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-31T20:59:48Z"
+    },
+    "sale_seed_3_4_630": {
+      "id": "sale_seed_3_4_630",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 3,
+      "total_price": 1260.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T14:22:26Z"
+    },
+    "sale_seed_3_5_143": {
+      "id": "sale_seed_3_5_143",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-31T15:01:57Z"
+    },
+    "sale_seed_3_6_205": {
+      "id": "sale_seed_3_6_205",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T10:22:07Z"
+    },
+    "sale_seed_3_7_174": {
+      "id": "sale_seed_3_7_174",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-31T21:31:55Z"
+    },
+    "sale_seed_3_8_313": {
+      "id": "sale_seed_3_8_313",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-31T16:20:16Z"
+    },
+    "sale_seed_3_9_968": {
+      "id": "sale_seed_3_9_968",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-31T21:32:50Z"
+    },
+    "sale_seed_3_10_435": {
+      "id": "sale_seed_3_10_435",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-31T09:07:44Z"
+    },
+    "sale_seed_3_11_544": {
+      "id": "sale_seed_3_11_544",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-31T16:17:43Z"
+    },
+    "sale_seed_3_12_856": {
+      "id": "sale_seed_3_12_856",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T20:04:17Z"
+    },
+    "sale_seed_3_13_957": {
+      "id": "sale_seed_3_13_957",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-31T21:42:18Z"
+    },
+    "sale_seed_3_14_688": {
+      "id": "sale_seed_3_14_688",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-31T13:00:40Z"
+    },
+    "sale_seed_2_0_495": {
+      "id": "sale_seed_2_0_495",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 4,
+      "total_price": 880.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-01T18:27:58Z"
+    },
+    "sale_seed_2_1_873": {
+      "id": "sale_seed_2_1_873",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-01T09:28:27Z"
+    },
+    "sale_seed_2_2_579": {
+      "id": "sale_seed_2_2_579",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-01T12:58:06Z"
+    },
+    "sale_seed_2_3_416": {
+      "id": "sale_seed_2_3_416",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-01T16:15:48Z"
+    },
+    "sale_seed_2_4_700": {
+      "id": "sale_seed_2_4_700",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-01T17:45:30Z"
+    },
+    "sale_seed_2_5_165": {
+      "id": "sale_seed_2_5_165",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-01T20:03:07Z"
+    },
+    "sale_seed_2_6_951": {
+      "id": "sale_seed_2_6_951",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-01T10:39:49Z"
+    },
+    "sale_seed_2_7_456": {
+      "id": "sale_seed_2_7_456",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-01T10:23:53Z"
+    },
+    "sale_seed_2_8_513": {
+      "id": "sale_seed_2_8_513",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-01T12:18:15Z"
+    },
+    "sale_seed_2_9_301": {
+      "id": "sale_seed_2_9_301",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-01T12:40:14Z"
+    },
+    "sale_seed_2_10_201": {
+      "id": "sale_seed_2_10_201",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-01T20:52:26Z"
+    },
+    "sale_seed_2_11_351": {
+      "id": "sale_seed_2_11_351",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-01T16:17:33Z"
+    },
+    "sale_seed_2_12_593": {
+      "id": "sale_seed_2_12_593",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-01T17:19:12Z"
+    },
+    "sale_seed_2_13_651": {
+      "id": "sale_seed_2_13_651",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 3,
+      "total_price": 540.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-01T11:42:10Z"
+    },
+    "sale_seed_2_14_426": {
+      "id": "sale_seed_2_14_426",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-01T21:30:15Z"
+    },
+    "sale_seed_2_15_344": {
+      "id": "sale_seed_2_15_344",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-01T19:15:12Z"
+    },
+    "sale_seed_2_16_217": {
+      "id": "sale_seed_2_16_217",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-01T15:42:49Z"
+    },
+    "sale_seed_1_0_323": {
+      "id": "sale_seed_1_0_323",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T11:22:35Z"
+    },
+    "sale_seed_1_1_786": {
+      "id": "sale_seed_1_1_786",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-02T16:42:34Z"
+    },
+    "sale_seed_1_2_975": {
+      "id": "sale_seed_1_2_975",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-02T11:46:10Z"
+    },
+    "sale_seed_1_3_495": {
+      "id": "sale_seed_1_3_495",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-02T20:59:59Z"
+    },
+    "sale_seed_1_4_674": {
+      "id": "sale_seed_1_4_674",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-02T09:03:25Z"
+    },
+    "sale_seed_1_5_634": {
+      "id": "sale_seed_1_5_634",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 3,
+      "total_price": 660.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-02T16:47:17Z"
+    },
+    "sale_seed_1_6_660": {
+      "id": "sale_seed_1_6_660",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T11:30:34Z"
+    },
+    "sale_seed_1_7_967": {
+      "id": "sale_seed_1_7_967",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-02T18:51:26Z"
+    },
+    "sale_seed_1_8_795": {
+      "id": "sale_seed_1_8_795",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T10:40:28Z"
+    },
+    "sale_seed_1_9_734": {
+      "id": "sale_seed_1_9_734",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-02T19:33:35Z"
+    },
+    "sale_seed_1_10_336": {
+      "id": "sale_seed_1_10_336",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 3,
+      "total_price": 600.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-02T21:29:25Z"
+    },
+    "sale_seed_1_11_635": {
+      "id": "sale_seed_1_11_635",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-02T20:54:00Z"
+    },
+    "sale_seed_1_12_618": {
+      "id": "sale_seed_1_12_618",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T18:53:11Z"
+    },
+    "sale_seed_1_13_241": {
+      "id": "sale_seed_1_13_241",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T21:04:08Z"
+    },
+    "sale_seed_1_14_464": {
+      "id": "sale_seed_1_14_464",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-02T14:35:51Z"
+    },
+    "sale_seed_1_15_159": {
+      "id": "sale_seed_1_15_159",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-02T13:34:59Z"
+    },
+    "sale_seed_1_16_265": {
+      "id": "sale_seed_1_16_265",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-02T16:52:06Z"
+    },
+    "sale_seed_1_17_570": {
+      "id": "sale_seed_1_17_570",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T15:43:07Z"
+    },
+    "sale_seed_0_0_533": {
+      "id": "sale_seed_0_0_533",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-03T12:47:01Z"
+    },
+    "sale_seed_0_1_730": {
+      "id": "sale_seed_0_1_730",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-03T11:34:03Z"
+    },
+    "sale_seed_0_2_867": {
+      "id": "sale_seed_0_2_867",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-03T18:33:07Z"
+    },
+    "sale_seed_0_3_662": {
+      "id": "sale_seed_0_3_662",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-03T14:01:13Z"
+    },
+    "sale_seed_0_4_241": {
+      "id": "sale_seed_0_4_241",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-03T18:19:35Z"
+    },
+    "sale_seed_0_5_908": {
+      "id": "sale_seed_0_5_908",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T18:24:42Z"
+    },
+    "sale_seed_0_6_841": {
+      "id": "sale_seed_0_6_841",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-03T14:50:29Z"
+    },
+    "sale_seed_0_7_611": {
+      "id": "sale_seed_0_7_611",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-03T13:09:22Z"
+    },
+    "sale_seed_0_8_173": {
+      "id": "sale_seed_0_8_173",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 3,
+      "total_price": 1260.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-03T10:42:07Z"
+    },
+    "sale_seed_0_9_264": {
+      "id": "sale_seed_0_9_264",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-03T10:13:22Z"
+    },
+    "sale_seed_0_10_189": {
+      "id": "sale_seed_0_10_189",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T16:35:21Z"
+    },
+    "sale_seed_0_11_112": {
+      "id": "sale_seed_0_11_112",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-03T20:37:34Z"
+    },
+    "sale_seed_0_12_680": {
+      "id": "sale_seed_0_12_680",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-03T11:11:29Z"
+    },
+    "sale_seed_0_13_949": {
+      "id": "sale_seed_0_13_949",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-03T16:19:05Z"
+    },
+    "sale_seed_0_14_893": {
+      "id": "sale_seed_0_14_893",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T14:41:47Z"
+    },
+    "sale_seed_0_15_930": {
+      "id": "sale_seed_0_15_930",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-03T21:14:16Z"
+    },
+    "sale_seed_13_4_247": {
+      "id": "sale_seed_13_4_247",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-21T10:57:55Z"
+    },
+    "sale_seed_12_0_119": {
+      "id": "sale_seed_12_0_119",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-22T20:38:02Z"
+    },
+    "sale_seed_13_0_202": {
+      "id": "sale_seed_13_0_202",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-21T11:46:42Z"
+    },
+    "sale_seed_13_1_806": {
+      "id": "sale_seed_13_1_806",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-21T20:18:25Z"
+    },
+    "sale_seed_13_2_827": {
+      "id": "sale_seed_13_2_827",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-21T09:54:01Z"
+    },
+    "sale_seed_13_3_627": {
+      "id": "sale_seed_13_3_627",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-21T18:53:03Z"
+    },
+    "sale_seed_13_4_233": {
+      "id": "sale_seed_13_4_233",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-21T11:18:52Z"
+    },
+    "sale_seed_13_5_892": {
+      "id": "sale_seed_13_5_892",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-21T14:25:38Z"
+    },
+    "sale_seed_13_6_808": {
+      "id": "sale_seed_13_6_808",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-21T12:03:01Z"
+    },
+    "sale_seed_13_7_149": {
+      "id": "sale_seed_13_7_149",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-21T13:57:15Z"
+    },
+    "sale_seed_12_0_443": {
+      "id": "sale_seed_12_0_443",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-22T17:00:04Z"
+    },
+    "sale_seed_12_1_500": {
+      "id": "sale_seed_12_1_500",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-22T13:19:16Z"
+    },
+    "sale_seed_12_2_463": {
+      "id": "sale_seed_12_2_463",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 3,
+      "total_price": 660.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-22T09:10:44Z"
+    },
+    "sale_seed_12_3_934": {
+      "id": "sale_seed_12_3_934",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-22T21:23:10Z"
+    },
+    "sale_seed_12_4_127": {
+      "id": "sale_seed_12_4_127",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-22T15:07:51Z"
+    },
+    "sale_seed_12_5_490": {
+      "id": "sale_seed_12_5_490",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-22T12:40:07Z"
+    },
+    "sale_seed_12_6_537": {
+      "id": "sale_seed_12_6_537",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-22T09:49:06Z"
+    },
+    "sale_seed_12_7_732": {
+      "id": "sale_seed_12_7_732",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-22T17:16:50Z"
+    },
+    "sale_seed_11_0_426": {
+      "id": "sale_seed_11_0_426",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-23T20:18:38Z"
+    },
+    "sale_seed_11_1_156": {
+      "id": "sale_seed_11_1_156",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-23T20:54:42Z"
+    },
+    "sale_seed_11_2_346": {
+      "id": "sale_seed_11_2_346",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-23T11:20:09Z"
+    },
+    "sale_seed_11_3_724": {
+      "id": "sale_seed_11_3_724",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-23T16:23:15Z"
+    },
+    "sale_seed_11_4_711": {
+      "id": "sale_seed_11_4_711",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-23T20:33:29Z"
+    },
+    "sale_seed_11_5_720": {
+      "id": "sale_seed_11_5_720",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-23T17:41:49Z"
+    },
+    "sale_seed_11_6_571": {
+      "id": "sale_seed_11_6_571",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-23T10:13:31Z"
+    },
+    "sale_seed_10_0_124": {
+      "id": "sale_seed_10_0_124",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-24T14:05:45Z"
+    },
+    "sale_seed_10_1_931": {
+      "id": "sale_seed_10_1_931",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-24T13:58:41Z"
+    },
+    "sale_seed_10_2_880": {
+      "id": "sale_seed_10_2_880",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-24T18:37:33Z"
+    },
+    "sale_seed_10_3_805": {
+      "id": "sale_seed_10_3_805",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-24T19:50:21Z"
+    },
+    "sale_seed_10_4_724": {
+      "id": "sale_seed_10_4_724",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-24T10:21:15Z"
+    },
+    "sale_seed_10_5_565": {
+      "id": "sale_seed_10_5_565",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-24T14:52:36Z"
+    },
+    "sale_seed_10_6_296": {
+      "id": "sale_seed_10_6_296",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 4,
+      "total_price": 560.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-24T19:00:58Z"
+    },
+    "sale_seed_10_7_664": {
+      "id": "sale_seed_10_7_664",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-24T09:27:38Z"
+    },
+    "sale_seed_10_8_205": {
+      "id": "sale_seed_10_8_205",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-24T16:42:21Z"
+    },
+    "sale_seed_10_9_954": {
+      "id": "sale_seed_10_9_954",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-24T14:49:52Z"
+    },
+    "sale_seed_9_0_489": {
+      "id": "sale_seed_9_0_489",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-25T19:02:00Z"
+    },
+    "sale_seed_9_1_300": {
+      "id": "sale_seed_9_1_300",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-25T15:10:11Z"
+    },
+    "sale_seed_9_2_766": {
+      "id": "sale_seed_9_2_766",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-25T16:09:22Z"
+    },
+    "sale_seed_9_3_117": {
+      "id": "sale_seed_9_3_117",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 3,
+      "total_price": 540.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-25T17:33:45Z"
+    },
+    "sale_seed_9_4_257": {
+      "id": "sale_seed_9_4_257",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 4,
+      "total_price": 480.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-25T17:42:16Z"
+    },
+    "sale_seed_9_5_930": {
+      "id": "sale_seed_9_5_930",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-25T20:28:00Z"
+    },
+    "sale_seed_9_6_804": {
+      "id": "sale_seed_9_6_804",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-25T20:19:42Z"
+    },
+    "sale_seed_9_7_479": {
+      "id": "sale_seed_9_7_479",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-25T19:36:18Z"
+    },
+    "sale_seed_9_8_594": {
+      "id": "sale_seed_9_8_594",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-25T13:17:02Z"
+    },
+    "sale_seed_9_9_766": {
+      "id": "sale_seed_9_9_766",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-25T14:49:39Z"
+    },
+    "sale_seed_9_10_805": {
+      "id": "sale_seed_9_10_805",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-25T20:55:03Z"
+    },
+    "sale_seed_9_11_361": {
+      "id": "sale_seed_9_11_361",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-25T14:11:35Z"
+    },
+    "sale_seed_8_0_897": {
+      "id": "sale_seed_8_0_897",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-26T13:20:21Z"
+    },
+    "sale_seed_8_1_739": {
+      "id": "sale_seed_8_1_739",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 4,
+      "total_price": 480.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-26T09:02:06Z"
+    },
+    "sale_seed_8_2_932": {
+      "id": "sale_seed_8_2_932",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-26T14:23:39Z"
+    },
+    "sale_seed_8_3_117": {
+      "id": "sale_seed_8_3_117",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-26T15:04:10Z"
+    },
+    "sale_seed_8_4_798": {
+      "id": "sale_seed_8_4_798",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-26T17:15:01Z"
+    },
+    "sale_seed_8_5_416": {
+      "id": "sale_seed_8_5_416",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 4,
+      "total_price": 720.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-26T20:22:06Z"
+    },
+    "sale_seed_8_6_292": {
+      "id": "sale_seed_8_6_292",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-26T18:10:37Z"
+    },
+    "sale_seed_8_7_695": {
+      "id": "sale_seed_8_7_695",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-26T10:07:47Z"
+    },
+    "sale_seed_8_8_758": {
+      "id": "sale_seed_8_8_758",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-26T21:39:18Z"
+    },
+    "sale_seed_8_9_425": {
+      "id": "sale_seed_8_9_425",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-26T17:22:36Z"
+    },
+    "sale_seed_8_10_114": {
+      "id": "sale_seed_8_10_114",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-26T09:48:24Z"
+    },
+    "sale_seed_8_11_748": {
+      "id": "sale_seed_8_11_748",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-26T10:56:58Z"
+    },
+    "sale_seed_7_0_285": {
+      "id": "sale_seed_7_0_285",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-27T17:38:09Z"
+    },
+    "sale_seed_7_1_607": {
+      "id": "sale_seed_7_1_607",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-27T12:19:36Z"
+    },
+    "sale_seed_7_2_973": {
+      "id": "sale_seed_7_2_973",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-27T19:59:59Z"
+    },
+    "sale_seed_7_3_948": {
+      "id": "sale_seed_7_3_948",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 4,
+      "total_price": 1040.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-27T16:29:29Z"
+    },
+    "sale_seed_7_4_351": {
+      "id": "sale_seed_7_4_351",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-27T10:47:32Z"
+    },
+    "sale_seed_7_5_886": {
+      "id": "sale_seed_7_5_886",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-27T11:41:04Z"
+    },
+    "sale_seed_7_6_431": {
+      "id": "sale_seed_7_6_431",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-27T19:04:32Z"
+    },
+    "sale_seed_7_7_948": {
+      "id": "sale_seed_7_7_948",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-27T15:36:57Z"
+    },
+    "sale_seed_7_8_656": {
+      "id": "sale_seed_7_8_656",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-27T09:39:09Z"
+    },
+    "sale_seed_7_9_701": {
+      "id": "sale_seed_7_9_701",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 3,
+      "total_price": 780.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-27T18:15:01Z"
+    },
+    "sale_seed_7_10_624": {
+      "id": "sale_seed_7_10_624",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-27T19:49:21Z"
+    },
+    "sale_seed_7_11_311": {
+      "id": "sale_seed_7_11_311",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-27T15:24:28Z"
+    },
+    "sale_seed_6_0_526": {
+      "id": "sale_seed_6_0_526",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-28T10:11:26Z"
+    },
+    "sale_seed_6_1_541": {
+      "id": "sale_seed_6_1_541",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-28T21:04:22Z"
+    },
+    "sale_seed_6_2_999": {
+      "id": "sale_seed_6_2_999",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-28T18:50:40Z"
+    },
+    "sale_seed_6_3_485": {
+      "id": "sale_seed_6_3_485",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-28T14:29:57Z"
+    },
+    "sale_seed_6_4_879": {
+      "id": "sale_seed_6_4_879",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-28T10:03:23Z"
+    },
+    "sale_seed_6_5_755": {
+      "id": "sale_seed_6_5_755",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-28T21:07:58Z"
+    },
+    "sale_seed_6_6_474": {
+      "id": "sale_seed_6_6_474",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-28T19:54:45Z"
+    },
+    "sale_seed_6_7_352": {
+      "id": "sale_seed_6_7_352",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-28T21:20:28Z"
+    },
+    "sale_seed_6_8_797": {
+      "id": "sale_seed_6_8_797",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-28T14:28:12Z"
+    },
+    "sale_seed_6_9_638": {
+      "id": "sale_seed_6_9_638",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-28T21:20:46Z"
+    },
+    "sale_seed_6_10_305": {
+      "id": "sale_seed_6_10_305",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-28T18:21:30Z"
+    },
+    "sale_seed_5_0_414": {
+      "id": "sale_seed_5_0_414",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-29T13:56:15Z"
+    },
+    "sale_seed_5_1_253": {
+      "id": "sale_seed_5_1_253",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-29T11:47:15Z"
+    },
+    "sale_seed_5_2_469": {
+      "id": "sale_seed_5_2_469",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T13:24:53Z"
+    },
+    "sale_seed_5_3_870": {
+      "id": "sale_seed_5_3_870",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-29T10:08:37Z"
+    },
+    "sale_seed_5_4_323": {
+      "id": "sale_seed_5_4_323",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-29T09:08:24Z"
+    },
+    "sale_seed_5_5_575": {
+      "id": "sale_seed_5_5_575",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-29T13:29:43Z"
+    },
+    "sale_seed_5_6_714": {
+      "id": "sale_seed_5_6_714",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-29T18:38:36Z"
+    },
+    "sale_seed_5_7_852": {
+      "id": "sale_seed_5_7_852",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-29T16:50:39Z"
+    },
+    "sale_seed_5_8_956": {
+      "id": "sale_seed_5_8_956",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T13:38:45Z"
+    },
+    "sale_seed_5_9_143": {
+      "id": "sale_seed_5_9_143",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-29T21:59:42Z"
+    },
+    "sale_seed_5_10_934": {
+      "id": "sale_seed_5_10_934",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-29T10:43:55Z"
+    },
+    "sale_seed_5_11_375": {
+      "id": "sale_seed_5_11_375",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-29T11:44:27Z"
+    },
+    "sale_seed_5_12_480": {
+      "id": "sale_seed_5_12_480",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 4,
+      "total_price": 1680.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-29T16:20:31Z"
+    },
+    "sale_seed_5_13_458": {
+      "id": "sale_seed_5_13_458",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T20:37:44Z"
+    },
+    "sale_seed_4_0_246": {
+      "id": "sale_seed_4_0_246",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-30T19:43:51Z"
+    },
+    "sale_seed_4_1_607": {
+      "id": "sale_seed_4_1_607",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-30T16:43:05Z"
+    },
+    "sale_seed_4_2_602": {
+      "id": "sale_seed_4_2_602",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-30T18:41:25Z"
+    },
+    "sale_seed_4_3_722": {
+      "id": "sale_seed_4_3_722",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-30T11:22:59Z"
+    },
+    "sale_seed_4_4_985": {
+      "id": "sale_seed_4_4_985",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-30T16:42:53Z"
+    },
+    "sale_seed_4_5_872": {
+      "id": "sale_seed_4_5_872",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-30T13:51:26Z"
+    },
+    "sale_seed_4_6_273": {
+      "id": "sale_seed_4_6_273",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-30T17:48:27Z"
+    },
+    "sale_seed_4_7_164": {
+      "id": "sale_seed_4_7_164",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-30T16:04:57Z"
+    },
+    "sale_seed_4_8_947": {
+      "id": "sale_seed_4_8_947",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-30T14:01:52Z"
+    },
+    "sale_seed_4_9_510": {
+      "id": "sale_seed_4_9_510",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-30T14:38:34Z"
+    },
+    "sale_seed_4_10_950": {
+      "id": "sale_seed_4_10_950",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-30T09:29:44Z"
+    },
+    "sale_seed_4_11_738": {
+      "id": "sale_seed_4_11_738",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-30T16:41:54Z"
+    },
+    "sale_seed_4_12_171": {
+      "id": "sale_seed_4_12_171",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-30T19:06:28Z"
+    },
+    "sale_seed_3_0_677": {
+      "id": "sale_seed_3_0_677",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-31T10:20:44Z"
+    },
+    "sale_seed_3_1_840": {
+      "id": "sale_seed_3_1_840",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-31T13:19:53Z"
+    },
+    "sale_seed_3_2_367": {
+      "id": "sale_seed_3_2_367",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-31T09:53:54Z"
+    },
+    "sale_seed_3_3_694": {
+      "id": "sale_seed_3_3_694",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-31T15:46:04Z"
+    },
+    "sale_seed_3_4_262": {
+      "id": "sale_seed_3_4_262",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-31T11:53:31Z"
+    },
+    "sale_seed_3_5_455": {
+      "id": "sale_seed_3_5_455",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-31T21:32:25Z"
+    },
+    "sale_seed_12_1_683": {
+      "id": "sale_seed_12_1_683",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 4,
+      "total_price": 560.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-22T18:31:56Z"
+    },
+    "sale_seed_3_6_128": {
+      "id": "sale_seed_3_6_128",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-31T17:55:37Z"
+    },
+    "sale_seed_3_7_653": {
+      "id": "sale_seed_3_7_653",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 4,
+      "total_price": 480.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-31T16:57:11Z"
+    },
+    "sale_seed_3_8_440": {
+      "id": "sale_seed_3_8_440",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T14:51:01Z"
+    },
+    "sale_seed_3_9_270": {
+      "id": "sale_seed_3_9_270",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-31T16:30:15Z"
+    },
+    "sale_seed_3_10_475": {
+      "id": "sale_seed_3_10_475",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 3,
+      "total_price": 1260.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T20:50:53Z"
+    },
+    "sale_seed_3_11_986": {
+      "id": "sale_seed_3_11_986",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-31T15:44:18Z"
+    },
+    "sale_seed_3_12_606": {
+      "id": "sale_seed_3_12_606",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-31T10:27:32Z"
+    },
+    "sale_seed_3_13_299": {
+      "id": "sale_seed_3_13_299",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-31T18:22:14Z"
+    },
+    "sale_seed_3_14_789": {
+      "id": "sale_seed_3_14_789",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-31T11:18:17Z"
+    },
+    "sale_seed_2_0_950": {
+      "id": "sale_seed_2_0_950",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-01T20:34:50Z"
+    },
+    "sale_seed_2_1_982": {
+      "id": "sale_seed_2_1_982",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-01T09:05:28Z"
+    },
+    "sale_seed_2_2_371": {
+      "id": "sale_seed_2_2_371",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-01T18:46:07Z"
+    },
+    "sale_seed_2_3_256": {
+      "id": "sale_seed_2_3_256",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-01T19:50:08Z"
+    },
+    "sale_seed_2_4_259": {
+      "id": "sale_seed_2_4_259",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-01T11:24:26Z"
+    },
+    "sale_seed_2_5_334": {
+      "id": "sale_seed_2_5_334",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-01T20:59:07Z"
+    },
+    "sale_seed_2_6_915": {
+      "id": "sale_seed_2_6_915",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-01T15:36:03Z"
+    },
+    "sale_seed_2_7_954": {
+      "id": "sale_seed_2_7_954",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-01T17:28:52Z"
+    },
+    "sale_seed_2_8_653": {
+      "id": "sale_seed_2_8_653",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-01T12:41:33Z"
+    },
+    "sale_seed_2_9_995": {
+      "id": "sale_seed_2_9_995",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 3,
+      "total_price": 540.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-01T10:20:13Z"
+    },
+    "sale_seed_2_10_267": {
+      "id": "sale_seed_2_10_267",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-01T15:43:02Z"
+    },
+    "sale_seed_2_11_272": {
+      "id": "sale_seed_2_11_272",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-01T11:19:20Z"
+    },
+    "sale_seed_2_12_185": {
+      "id": "sale_seed_2_12_185",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-01T20:36:33Z"
+    },
+    "sale_seed_2_13_370": {
+      "id": "sale_seed_2_13_370",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-01T10:47:34Z"
+    },
+    "sale_seed_1_0_170": {
+      "id": "sale_seed_1_0_170",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-02T12:53:35Z"
+    },
+    "sale_seed_1_1_523": {
+      "id": "sale_seed_1_1_523",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T09:54:32Z"
+    },
+    "sale_seed_1_2_225": {
+      "id": "sale_seed_1_2_225",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 3,
+      "total_price": 1260.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-02T19:06:34Z"
+    },
+    "sale_seed_1_3_775": {
+      "id": "sale_seed_1_3_775",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T18:25:49Z"
+    },
+    "sale_seed_1_4_764": {
+      "id": "sale_seed_1_4_764",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T13:27:05Z"
+    },
+    "sale_seed_1_5_550": {
+      "id": "sale_seed_1_5_550",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T19:15:30Z"
+    },
+    "sale_seed_1_6_198": {
+      "id": "sale_seed_1_6_198",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-02T20:07:28Z"
+    },
+    "sale_seed_1_7_602": {
+      "id": "sale_seed_1_7_602",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-02T14:50:41Z"
+    },
+    "sale_seed_1_8_451": {
+      "id": "sale_seed_1_8_451",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-02T15:55:28Z"
+    },
+    "sale_seed_1_9_500": {
+      "id": "sale_seed_1_9_500",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 3,
+      "total_price": 540.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T21:16:50Z"
+    },
+    "sale_seed_1_10_854": {
+      "id": "sale_seed_1_10_854",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-02T21:07:52Z"
+    },
+    "sale_seed_1_11_852": {
+      "id": "sale_seed_1_11_852",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-02T12:41:49Z"
+    },
+    "sale_seed_1_12_830": {
+      "id": "sale_seed_1_12_830",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-02T13:35:22Z"
+    },
+    "sale_seed_1_13_279": {
+      "id": "sale_seed_1_13_279",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T09:24:21Z"
+    },
+    "sale_seed_1_14_571": {
+      "id": "sale_seed_1_14_571",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T13:03:33Z"
+    },
+    "sale_seed_1_15_897": {
+      "id": "sale_seed_1_15_897",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T20:02:24Z"
+    },
+    "sale_seed_0_0_338": {
+      "id": "sale_seed_0_0_338",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-03T18:47:54Z"
+    },
+    "sale_seed_0_1_205": {
+      "id": "sale_seed_0_1_205",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-03T14:21:56Z"
+    },
+    "sale_seed_0_2_710": {
+      "id": "sale_seed_0_2_710",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-03T10:35:56Z"
+    },
+    "sale_seed_0_3_619": {
+      "id": "sale_seed_0_3_619",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 4,
+      "total_price": 720.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-03T20:02:52Z"
+    },
+    "sale_seed_0_4_621": {
+      "id": "sale_seed_0_4_621",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-03T13:21:13Z"
+    },
+    "sale_seed_0_5_684": {
+      "id": "sale_seed_0_5_684",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T21:34:28Z"
+    },
+    "sale_seed_0_6_255": {
+      "id": "sale_seed_0_6_255",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-03T17:51:49Z"
+    },
+    "sale_seed_0_7_231": {
+      "id": "sale_seed_0_7_231",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T21:25:45Z"
+    },
+    "sale_seed_0_8_794": {
+      "id": "sale_seed_0_8_794",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-03T15:15:17Z"
+    },
+    "sale_seed_0_9_794": {
+      "id": "sale_seed_0_9_794",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-03T16:48:46Z"
+    },
+    "sale_seed_0_10_170": {
+      "id": "sale_seed_0_10_170",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 3,
+      "total_price": 660.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T13:30:24Z"
+    },
+    "sale_seed_0_11_204": {
+      "id": "sale_seed_0_11_204",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-03T21:29:34Z"
+    },
+    "sale_seed_0_12_268": {
+      "id": "sale_seed_0_12_268",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 4,
+      "total_price": 800.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-03T09:02:20Z"
+    },
+    "sale_seed_0_13_809": {
+      "id": "sale_seed_0_13_809",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-03T15:30:09Z"
+    },
+    "sale_seed_0_14_204": {
+      "id": "sale_seed_0_14_204",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-03T09:55:17Z"
+    },
+    "sale_seed_0_15_508": {
+      "id": "sale_seed_0_15_508",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-03T14:55:16Z"
+    },
+    "sale_seed_12_2_571": {
+      "id": "sale_seed_12_2_571",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-22T14:00:46Z"
+    },
+    "sale_seed_12_3_269": {
+      "id": "sale_seed_12_3_269",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-22T20:30:55Z"
+    },
+    "sale_seed_12_4_541": {
+      "id": "sale_seed_12_4_541",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-22T21:33:38Z"
+    },
+    "sale_seed_12_5_149": {
+      "id": "sale_seed_12_5_149",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-22T11:57:22Z"
+    },
+    "sale_seed_12_6_266": {
+      "id": "sale_seed_12_6_266",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-22T09:44:18Z"
+    },
+    "sale_seed_12_7_987": {
+      "id": "sale_seed_12_7_987",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-22T20:49:58Z"
+    },
+    "sale_seed_11_0_564": {
+      "id": "sale_seed_11_0_564",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-23T10:36:46Z"
+    },
+    "sale_seed_11_1_244": {
+      "id": "sale_seed_11_1_244",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-23T19:04:52Z"
+    },
+    "sale_seed_11_2_744": {
+      "id": "sale_seed_11_2_744",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 4,
+      "total_price": 1040.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-23T11:22:59Z"
+    },
+    "sale_seed_11_3_237": {
+      "id": "sale_seed_11_3_237",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-23T14:45:34Z"
+    },
+    "sale_seed_11_4_143": {
+      "id": "sale_seed_11_4_143",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-23T17:45:27Z"
+    },
+    "sale_seed_11_5_129": {
+      "id": "sale_seed_11_5_129",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-23T10:44:51Z"
+    },
+    "sale_seed_11_6_797": {
+      "id": "sale_seed_11_6_797",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-23T18:53:38Z"
+    },
+    "sale_seed_11_7_266": {
+      "id": "sale_seed_11_7_266",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-23T14:20:05Z"
+    },
+    "sale_seed_10_0_860": {
+      "id": "sale_seed_10_0_860",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-24T13:31:42Z"
+    },
+    "sale_seed_10_1_886": {
+      "id": "sale_seed_10_1_886",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-24T18:35:26Z"
+    },
+    "sale_seed_10_2_951": {
+      "id": "sale_seed_10_2_951",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-24T14:55:25Z"
+    },
+    "sale_seed_10_3_248": {
+      "id": "sale_seed_10_3_248",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-24T21:29:08Z"
+    },
+    "sale_seed_10_4_795": {
+      "id": "sale_seed_10_4_795",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-24T12:24:07Z"
+    },
+    "sale_seed_10_5_923": {
+      "id": "sale_seed_10_5_923",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-24T11:42:44Z"
+    },
+    "sale_seed_10_6_342": {
+      "id": "sale_seed_10_6_342",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-24T10:23:32Z"
+    },
+    "sale_seed_10_7_516": {
+      "id": "sale_seed_10_7_516",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-24T21:31:19Z"
+    },
+    "sale_seed_9_0_830": {
+      "id": "sale_seed_9_0_830",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-25T13:21:21Z"
+    },
+    "sale_seed_9_1_921": {
+      "id": "sale_seed_9_1_921",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-25T10:10:55Z"
+    },
+    "sale_seed_9_2_107": {
+      "id": "sale_seed_9_2_107",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-25T11:15:22Z"
+    },
+    "sale_seed_9_3_646": {
+      "id": "sale_seed_9_3_646",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 4,
+      "total_price": 1680.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-25T21:12:56Z"
+    },
+    "sale_seed_9_4_811": {
+      "id": "sale_seed_9_4_811",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-25T16:22:15Z"
+    },
+    "sale_seed_9_5_357": {
+      "id": "sale_seed_9_5_357",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-25T19:08:34Z"
+    },
+    "sale_seed_9_6_744": {
+      "id": "sale_seed_9_6_744",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-25T14:26:23Z"
+    },
+    "sale_seed_9_7_393": {
+      "id": "sale_seed_9_7_393",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-25T13:17:21Z"
+    },
+    "sale_seed_9_8_775": {
+      "id": "sale_seed_9_8_775",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-25T09:43:04Z"
+    },
+    "sale_seed_9_9_305": {
+      "id": "sale_seed_9_9_305",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 4,
+      "total_price": 1680.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-25T12:06:12Z"
+    },
+    "sale_seed_9_10_455": {
+      "id": "sale_seed_9_10_455",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-25T19:01:29Z"
+    },
+    "sale_seed_9_11_719": {
+      "id": "sale_seed_9_11_719",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-25T14:33:21Z"
+    },
+    "sale_seed_8_0_523": {
+      "id": "sale_seed_8_0_523",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 4,
+      "total_price": 560.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-26T11:29:18Z"
+    },
+    "sale_seed_8_1_209": {
+      "id": "sale_seed_8_1_209",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 4,
+      "total_price": 800.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-26T16:06:12Z"
+    },
+    "sale_seed_8_2_399": {
+      "id": "sale_seed_8_2_399",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-26T21:36:43Z"
+    },
+    "sale_seed_8_3_830": {
+      "id": "sale_seed_8_3_830",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-26T19:00:02Z"
+    },
+    "sale_seed_8_4_913": {
+      "id": "sale_seed_8_4_913",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 3,
+      "total_price": 600.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-26T13:37:27Z"
+    },
+    "sale_seed_8_5_480": {
+      "id": "sale_seed_8_5_480",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-26T20:10:34Z"
+    },
+    "sale_seed_8_6_880": {
+      "id": "sale_seed_8_6_880",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-26T13:33:32Z"
+    },
+    "sale_seed_8_7_605": {
+      "id": "sale_seed_8_7_605",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-26T13:53:16Z"
+    },
+    "sale_seed_8_8_102": {
+      "id": "sale_seed_8_8_102",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 3,
+      "total_price": 360.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-26T13:01:38Z"
+    },
+    "sale_seed_8_9_938": {
+      "id": "sale_seed_8_9_938",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-26T10:17:12Z"
+    },
+    "sale_seed_7_0_148": {
+      "id": "sale_seed_7_0_148",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-27T19:06:54Z"
+    },
+    "sale_seed_7_1_789": {
+      "id": "sale_seed_7_1_789",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 4,
+      "total_price": 480.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-27T20:05:04Z"
+    },
+    "sale_seed_7_2_736": {
+      "id": "sale_seed_7_2_736",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-27T17:41:18Z"
+    },
+    "sale_seed_7_3_379": {
+      "id": "sale_seed_7_3_379",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-27T20:32:26Z"
+    },
+    "sale_seed_7_4_478": {
+      "id": "sale_seed_7_4_478",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-27T12:06:08Z"
+    },
+    "sale_seed_7_5_745": {
+      "id": "sale_seed_7_5_745",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 4,
+      "total_price": 800.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-27T19:16:43Z"
+    },
+    "sale_seed_7_6_209": {
+      "id": "sale_seed_7_6_209",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-27T19:05:42Z"
+    },
+    "sale_seed_7_7_200": {
+      "id": "sale_seed_7_7_200",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-27T10:54:43Z"
+    },
+    "sale_seed_7_8_115": {
+      "id": "sale_seed_7_8_115",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-27T13:38:01Z"
+    },
+    "sale_seed_7_9_308": {
+      "id": "sale_seed_7_9_308",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-27T20:21:57Z"
+    },
+    "sale_seed_6_0_112": {
+      "id": "sale_seed_6_0_112",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-28T20:39:21Z"
+    },
+    "sale_seed_6_1_415": {
+      "id": "sale_seed_6_1_415",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-28T11:07:11Z"
+    },
+    "sale_seed_6_2_961": {
+      "id": "sale_seed_6_2_961",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-28T13:25:40Z"
+    },
+    "sale_seed_6_3_197": {
+      "id": "sale_seed_6_3_197",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-28T15:51:06Z"
+    },
+    "sale_seed_6_4_377": {
+      "id": "sale_seed_6_4_377",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-28T11:54:51Z"
+    },
+    "sale_seed_6_5_955": {
+      "id": "sale_seed_6_5_955",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-28T17:35:25Z"
+    },
+    "sale_seed_6_6_350": {
+      "id": "sale_seed_6_6_350",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-28T11:59:00Z"
+    },
+    "sale_seed_6_7_974": {
+      "id": "sale_seed_6_7_974",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-28T18:59:22Z"
+    },
+    "sale_seed_6_8_315": {
+      "id": "sale_seed_6_8_315",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-28T21:27:28Z"
+    },
+    "sale_seed_6_9_745": {
+      "id": "sale_seed_6_9_745",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-28T12:22:05Z"
+    },
+    "sale_seed_6_10_371": {
+      "id": "sale_seed_6_10_371",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-28T15:51:56Z"
+    },
+    "sale_seed_6_11_594": {
+      "id": "sale_seed_6_11_594",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-28T09:26:16Z"
+    },
+    "sale_seed_5_0_128": {
+      "id": "sale_seed_5_0_128",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T14:41:29Z"
+    },
+    "sale_seed_5_1_424": {
+      "id": "sale_seed_5_1_424",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 3,
+      "total_price": 600.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T19:52:40Z"
+    },
+    "sale_seed_5_2_156": {
+      "id": "sale_seed_5_2_156",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-29T12:53:21Z"
+    },
+    "sale_seed_5_3_528": {
+      "id": "sale_seed_5_3_528",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-29T21:41:29Z"
+    },
+    "sale_seed_5_4_866": {
+      "id": "sale_seed_5_4_866",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T14:29:39Z"
+    },
+    "sale_seed_5_5_964": {
+      "id": "sale_seed_5_5_964",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T13:32:08Z"
+    },
+    "sale_seed_5_7_670": {
+      "id": "sale_seed_5_7_670",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-29T09:04:22Z"
+    },
+    "sale_seed_5_8_335": {
+      "id": "sale_seed_5_8_335",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T15:57:30Z"
+    },
+    "sale_seed_5_9_171": {
+      "id": "sale_seed_5_9_171",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-29T19:44:26Z"
+    },
+    "sale_seed_5_10_812": {
+      "id": "sale_seed_5_10_812",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T20:22:06Z"
+    },
+    "sale_seed_5_11_853": {
+      "id": "sale_seed_5_11_853",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-29T13:04:11Z"
+    },
+    "sale_seed_5_12_186": {
+      "id": "sale_seed_5_12_186",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 4,
+      "total_price": 1040.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-29T13:48:56Z"
+    },
+    "sale_seed_4_0_860": {
+      "id": "sale_seed_4_0_860",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-30T17:38:40Z"
+    },
+    "sale_seed_4_1_390": {
+      "id": "sale_seed_4_1_390",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 3,
+      "total_price": 540.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-30T10:27:30Z"
+    },
+    "sale_seed_4_2_860": {
+      "id": "sale_seed_4_2_860",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-08-30T11:19:47Z"
+    },
+    "sale_seed_4_3_379": {
+      "id": "sale_seed_4_3_379",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-30T13:48:52Z"
+    },
+    "sale_seed_4_4_297": {
+      "id": "sale_seed_4_4_297",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-30T13:02:46Z"
+    },
+    "sale_seed_4_5_618": {
+      "id": "sale_seed_4_5_618",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-30T16:05:04Z"
+    },
+    "sale_seed_4_6_578": {
+      "id": "sale_seed_4_6_578",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-30T12:14:26Z"
+    },
+    "sale_seed_4_7_742": {
+      "id": "sale_seed_4_7_742",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-30T17:08:38Z"
+    },
+    "sale_seed_4_8_271": {
+      "id": "sale_seed_4_8_271",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-08-30T12:33:47Z"
+    },
+    "sale_seed_4_9_731": {
+      "id": "sale_seed_4_9_731",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-30T21:13:37Z"
+    },
+    "sale_seed_4_10_808": {
+      "id": "sale_seed_4_10_808",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 2,
+      "total_price": 280.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-30T21:45:57Z"
+    },
+    "sale_seed_4_11_283": {
+      "id": "sale_seed_4_11_283",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 4,
+      "total_price": 560.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-08-30T10:25:32Z"
+    },
+    "sale_seed_4_12_676": {
+      "id": "sale_seed_4_12_676",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-30T15:23:11Z"
+    },
+    "sale_seed_4_13_908": {
+      "id": "sale_seed_4_13_908",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-30T19:18:13Z"
+    },
+    "sale_seed_3_0_824": {
+      "id": "sale_seed_3_0_824",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T21:38:49Z"
+    },
+    "sale_seed_3_1_835": {
+      "id": "sale_seed_3_1_835",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 3,
+      "total_price": 660.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-31T16:33:33Z"
+    },
+    "sale_seed_3_2_206": {
+      "id": "sale_seed_3_2_206",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T12:52:47Z"
+    },
+    "sale_seed_3_3_846": {
+      "id": "sale_seed_3_3_846",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-31T19:14:28Z"
+    },
+    "sale_seed_3_4_707": {
+      "id": "sale_seed_3_4_707",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 3,
+      "total_price": 780.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-31T10:07:44Z"
+    },
+    "sale_seed_3_5_320": {
+      "id": "sale_seed_3_5_320",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-31T14:19:49Z"
+    },
+    "sale_seed_3_6_414": {
+      "id": "sale_seed_3_6_414",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-08-31T16:27:01Z"
+    },
+    "sale_seed_3_7_270": {
+      "id": "sale_seed_3_7_270",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T09:42:08Z"
+    },
+    "sale_seed_3_8_630": {
+      "id": "sale_seed_3_8_630",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-31T16:55:07Z"
+    },
+    "sale_seed_3_9_196": {
+      "id": "sale_seed_3_9_196",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-31T13:54:45Z"
+    },
+    "sale_seed_3_10_504": {
+      "id": "sale_seed_3_10_504",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 2,
+      "total_price": 360.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-08-31T09:12:01Z"
+    },
+    "sale_seed_3_11_474": {
+      "id": "sale_seed_3_11_474",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 3,
+      "total_price": 540.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-08-31T12:10:11Z"
+    },
+    "sale_seed_3_12_771": {
+      "id": "sale_seed_3_12_771",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-08-31T14:22:21Z"
+    },
+    "sale_seed_2_0_712": {
+      "id": "sale_seed_2_0_712",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-01T17:23:42Z"
+    },
+    "sale_seed_2_1_195": {
+      "id": "sale_seed_2_1_195",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-01T17:35:19Z"
+    },
+    "sale_seed_2_2_813": {
+      "id": "sale_seed_2_2_813",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-01T12:03:04Z"
+    },
+    "sale_seed_2_3_218": {
+      "id": "sale_seed_2_3_218",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-01T16:56:52Z"
+    },
+    "sale_seed_2_4_387": {
+      "id": "sale_seed_2_4_387",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-01T17:25:59Z"
+    },
+    "sale_seed_2_5_100": {
+      "id": "sale_seed_2_5_100",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-01T10:44:13Z"
+    },
+    "sale_seed_2_6_525": {
+      "id": "sale_seed_2_6_525",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-01T17:20:02Z"
+    },
+    "sale_seed_2_7_525": {
+      "id": "sale_seed_2_7_525",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-01T20:19:54Z"
+    },
+    "sale_seed_2_8_184": {
+      "id": "sale_seed_2_8_184",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-01T20:48:48Z"
+    },
+    "sale_seed_2_9_485": {
+      "id": "sale_seed_2_9_485",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 2,
+      "total_price": 520.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-01T21:20:53Z"
+    },
+    "sale_seed_2_10_826": {
+      "id": "sale_seed_2_10_826",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-01T15:43:12Z"
+    },
+    "sale_seed_2_11_131": {
+      "id": "sale_seed_2_11_131",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-01T16:59:00Z"
+    },
+    "sale_seed_2_12_107": {
+      "id": "sale_seed_2_12_107",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-01T15:59:58Z"
+    },
+    "sale_seed_2_13_389": {
+      "id": "sale_seed_2_13_389",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-01T14:24:14Z"
+    },
+    "sale_seed_2_14_435": {
+      "id": "sale_seed_2_14_435",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-01T13:36:01Z"
+    },
+    "sale_seed_1_0_719": {
+      "id": "sale_seed_1_0_719",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T20:30:47Z"
+    },
+    "sale_seed_1_1_467": {
+      "id": "sale_seed_1_1_467",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T16:57:31Z"
+    },
+    "sale_seed_1_2_348": {
+      "id": "sale_seed_1_2_348",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-02T10:03:17Z"
+    },
+    "sale_seed_1_3_632": {
+      "id": "sale_seed_1_3_632",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T16:57:30Z"
+    },
+    "sale_seed_1_4_406": {
+      "id": "sale_seed_1_4_406",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-02T17:39:36Z"
+    },
+    "sale_seed_1_5_850": {
+      "id": "sale_seed_1_5_850",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 3,
+      "total_price": 780.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T15:40:13Z"
+    },
+    "sale_seed_1_6_267": {
+      "id": "sale_seed_1_6_267",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 3,
+      "total_price": 600.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-02T16:58:33Z"
+    },
+    "sale_seed_1_7_867": {
+      "id": "sale_seed_1_7_867",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T12:51:09Z"
+    },
+    "sale_seed_1_8_722": {
+      "id": "sale_seed_1_8_722",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T10:19:52Z"
+    },
+    "sale_seed_1_9_570": {
+      "id": "sale_seed_1_9_570",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Ananya Sen",
+      "customer_email": "ananya.sen@example.com",
+      "timestamp": "2026-09-02T10:02:42Z"
+    },
+    "sale_seed_1_10_475": {
+      "id": "sale_seed_1_10_475",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-02T19:12:14Z"
+    },
+    "sale_seed_1_11_928": {
+      "id": "sale_seed_1_11_928",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-02T14:54:20Z"
+    },
+    "sale_seed_1_12_627": {
+      "id": "sale_seed_1_12_627",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-02T20:51:07Z"
+    },
+    "sale_seed_1_13_734": {
+      "id": "sale_seed_1_13_734",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 3,
+      "total_price": 420.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-02T17:01:48Z"
+    },
+    "sale_seed_1_14_581": {
+      "id": "sale_seed_1_14_581",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-02T16:12:28Z"
+    },
+    "sale_seed_1_15_471": {
+      "id": "sale_seed_1_15_471",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T17:30:19Z"
+    },
+    "sale_seed_1_16_936": {
+      "id": "sale_seed_1_16_936",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-02T18:19:47Z"
+    },
+    "sale_seed_1_17_631": {
+      "id": "sale_seed_1_17_631",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 3,
+      "total_price": 660.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-02T17:24:08Z"
+    },
+    "sale_seed_0_0_359": {
+      "id": "sale_seed_0_0_359",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 1,
+      "total_price": 220.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-03T12:21:37Z"
+    },
+    "sale_seed_0_1_692": {
+      "id": "sale_seed_0_1_692",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-03T19:42:21Z"
+    },
+    "sale_seed_0_2_164": {
+      "id": "sale_seed_0_2_164",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 1,
+      "total_price": 200.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-03T16:52:03Z"
+    },
+    "sale_seed_0_3_591": {
+      "id": "sale_seed_0_3_591",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Sunita Reddy",
+      "customer_email": "sunita.r@example.com",
+      "timestamp": "2026-09-03T18:29:09Z"
+    },
+    "sale_seed_0_4_293": {
+      "id": "sale_seed_0_4_293",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T09:21:18Z"
+    },
+    "sale_seed_0_5_801": {
+      "id": "sale_seed_0_5_801",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T10:46:32Z"
+    },
+    "sale_seed_0_6_826": {
+      "id": "sale_seed_0_6_826",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T12:37:55Z"
+    },
+    "sale_seed_0_7_161": {
+      "id": "sale_seed_0_7_161",
+      "sweet_name": "Mysore Pak",
+      "price": 260.0,
+      "quantity": 1,
+      "total_price": 260.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-03T15:39:49Z"
+    },
+    "sale_seed_0_8_946": {
+      "id": "sale_seed_0_8_946",
+      "sweet_name": "Motichoor Ladoo",
+      "price": 180.0,
+      "quantity": 1,
+      "total_price": 180.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-03T14:39:56Z"
+    },
+    "sale_seed_0_9_398": {
+      "id": "sale_seed_0_9_398",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Neha Gupta",
+      "customer_email": "neha.g@example.com",
+      "timestamp": "2026-09-03T12:35:40Z"
+    },
+    "sale_seed_0_10_936": {
+      "id": "sale_seed_0_10_936",
+      "sweet_name": "Rasmalai",
+      "price": 220.0,
+      "quantity": 2,
+      "total_price": 440.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-03T17:40:42Z"
+    },
+    "sale_seed_0_11_584": {
+      "id": "sale_seed_0_11_584",
+      "sweet_name": "Gulab Jamun",
+      "price": 120.0,
+      "quantity": 1,
+      "total_price": 120.0,
+      "customer_name": "Priya Patel",
+      "customer_email": "user@mithai.com",
+      "timestamp": "2026-09-03T19:02:13Z"
+    },
+    "sale_seed_0_12_466": {
+      "id": "sale_seed_0_12_466",
+      "sweet_name": "Rasgulla",
+      "price": 140.0,
+      "quantity": 1,
+      "total_price": 140.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-03T13:48:24Z"
+    },
+    "sale_seed_0_13_122": {
+      "id": "sale_seed_0_13_122",
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 1,
+      "total_price": 420.0,
+      "customer_name": "Amit Verma",
+      "customer_email": "amit.verma@example.com",
+      "timestamp": "2026-09-03T16:39:08Z"
+    },
+    "sale_seed_0_14_773": {
+      "id": "sale_seed_0_14_773",
+      "sweet_name": "Mathura Peda",
+      "price": 200.0,
+      "quantity": 2,
+      "total_price": 400.0,
+      "customer_name": "Rohit Deshmukh",
+      "customer_email": "rohit.d@example.com",
+      "timestamp": "2026-09-03T11:39:16Z"
+    },
+    "sale_seed_0_15_436": {
+      "id": "sale_seed_0_15_436",
+      "sweet_name": "Crispy Jalebi",
+      "price": 120.0,
+      "quantity": 2,
+      "total_price": 240.0,
+      "customer_name": "Vikram Malhotra",
+      "customer_email": "vikram.m@example.com",
+      "timestamp": "2026-09-03T17:05:29Z"
+    },
+    "sale_1788462771476_b92942": {
+      "sweet_name": "Kaju Katli",
+      "price": 420.0,
+      "quantity": 2,
+      "total_price": 840.0,
+      "customer_name": "Test Runner",
+      "customer_email": "",
+      "timestamp": "2026-09-03T19:12:51Z",
+      "id": "sale_1788462771476_b92942"
+    }
+  },
+  "users": {
+    "user_1788462573052_8d6f96": {
+      "id": "user_1788462573052_8d6f96",
+      "name": "Rajesh Sharma (Store Admin)",
+      "email": "admin@mithai.com",
+      "password_hash": "scrypt:32768:8:1$0xa1tmsCreZFchVV$ceb349dba73e1c03481f8ebe473e151f92bbb862015178fc441a39e94947010c627d49acd018b6d8cd25f6188d3ceba41394e9f0ad3bc573ceb377c56d67f184",
+      "role": "admin",
+      "phone": "+91 98765 43210",
+      "created_at": "2026-09-03T19:09:33Z"
+    },
+    "user_1788462573188_6deb37": {
+      "id": "user_1788462573188_6deb37",
+      "name": "Priya Patel",
+      "email": "user@mithai.com",
+      "password_hash": "scrypt:32768:8:1$B3NJ07O5cSw3J3Jv$17fc921b480703503a1635348b7ab3db30c0f92e250ce515ed254dbbb9f9ef0030cf67f09b95d4f33025d96690ac4b7e255a8dfb087b0a425b8b73bd34cbef87",
+      "role": "customer",
+      "phone": "+91 91234 56789",
+      "created_at": "2026-09-03T19:09:33Z"
+    },
+    "user_admin_default": {
+      "id": "user_admin_default",
+      "name": "Rajesh Sharma (Store Admin)",
+      "email": "admin@mithai.com",
+      "password_hash": "scrypt:32768:8:1$rlxAvRowPrUwYYNq$15410acd79e01f3f146e1079b561a6a81a761ca591831b88ccc1a0a58e425a486a444b5ddd37c36bbc9542a3f985a3bbf111bb0fed3c8812687825b8c9a23a9b",
+      "role": "admin",
+      "phone": "+91 98765 43210",
+      "created_at": "2026-08-15T10:00:00Z"
+    },
+    "user_customer_default": {
+      "id": "user_customer_default",
+      "name": "Priya Patel",
+      "email": "user@mithai.com",
+      "password_hash": "scrypt:32768:8:1$HA3v5DOGTVQ3o0Dl$5fb23356082293ff8912fd4b56444d04f0f5eb6d11c09fa2501d2ac2f53a96afd534208e0888a94dec1c44ed6aa328e3ff4c6654be16655a3626d3ae0f129e89",
+      "role": "customer",
+      "phone": "+91 91234 56789",
+      "created_at": "2026-08-20T11:00:00Z"
+    },
+    "user_1788462623217_a1abe6": {
+      "id": "user_1788462623217_a1abe6",
+      "name": "Test User",
+      "email": "customer1@test.com",
+      "password_hash": "scrypt:32768:8:1$Fk6rRo8mCIA2fJ5k$a1ba9ab202587963fd2069c630385033ac3a18226faf973f27b0ce2048a91e26b1c54e252116b51f0a21e676ff564ad8f09f87d85c4cb64e614e0662dd516caa",
+      "role": "customer",
+      "phone": "9876543210",
+      "created_at": "2026-09-03T19:10:23Z"
+    },
+    "user_1788462633958_0d3797": {
+      "id": "user_1788462633958_0d3797",
+      "name": "New Admin",
+      "email": "newadmin@mithai.com",
+      "password_hash": "scrypt:32768:8:1$DmY1Ry6BLKJBuQ8M$f159cd23935690fee061eff6825612e8f7447c11a1e15b0f3757a809491d9785294b48a4efb8f79aaed573f71fc0dc4216adf31a383a2ee364f126165bfb32b6",
+      "role": "admin",
+      "phone": "",
+      "created_at": "2026-09-03T19:10:33Z"
+    },
+    "user_1788463014646_eb5763": {
+      "id": "user_1788463014646_eb5763",
+      "name": "Rushikesh Mathkar",
+      "email": "rushikeshphonea17@gmail.com",
+      "password_hash": "scrypt:32768:8:1$5XDzzoKwPmN02H9W$e849ac42ced2f64a2ff33cfd2b7c06271fb2078801b46c82483dee8fb32fbbe793f0992c7219c7498dd94f6c46904987bd9c78c41104f8557109644d9b3dacb4",
+      "role": "admin",
+      "phone": "+917588113244",
+      "created_at": "2026-09-03T19:16:54Z"
+    },
+    "user_admin_rushikesh": {
+      "id": "user_admin_rushikesh",
+      "name": "Rushikesh Mathkar (Store Admin)",
+      "email": "rushikeshphonea17@gmail.com",
+      "password_hash": "scrypt:32768:8:1$4B8pFIqvRq6ngKEu$12994b45e218b2879a51bfc5a88add3989a91a8dcfe9677ee6a71a37e13e13cf7e61a7a972a9ad2befea99b6f11fa927ae0120523f38205b0be1b3129fa78ad1",
+      "role": "admin",
+      "phone": "+91 75881 13244",
+      "created_at": "2026-08-15T10:00:00Z"
+    },
+    "user_1788463508119_2d4c72": {
+      "id": "user_1788463508119_2d4c72",
+      "name": "Test User",
+      "email": "test@example.com",
+      "password_hash": "scrypt:32768:8:1$hRKFvFhhEXgX9mHk$cda7bc82e22a73a50e1549dcedc7bdfcfa71a589e7203f2dab157f8b0e43fe4c26d0614780d0f986a6b43b2e1ced557a51c20f4ae04f774d7b60ad8b0e49bdc3",
+      "role": "customer",
+      "phone": "",
+      "created_at": "2026-09-03T19:25:08Z"
+    },
+    "user_1788463693903_5c1b2f": {
+      "id": "user_1788463693903_5c1b2f",
+      "firebase_auth_uid": "",
+      "name": "Customer User 1788463693",
+      "email": "customer_1788463693@example.com",
+      "password_hash": "scrypt:32768:8:1$QULjxQVZSXdlK3Ip$312eb6d83f171d3d7293ba9b3d042b03f11428918d1b1247c6e6c3e74eb2806d4e256ba00069733d6017b0a8f765e63899643e3e3808d12945b920b88d9f29a3",
+      "role": "customer",
+      "phone": "+91 98765 00000",
+      "auth_provider": "firebase_firestore",
+      "created_at": "2026-09-03T19:28:13Z"
+    },
+    "user_1788463694457_5d1805": {
+      "id": "user_1788463694457_5d1805",
+      "firebase_auth_uid": "",
+      "name": "Admin User 1788463693",
+      "email": "admin_1788463693@mithai.com",
+      "password_hash": "scrypt:32768:8:1$0QpoumAwZfV0h8Lm$f829b0232cb032a5657326eedebab91fead993a2518a3e9c93897611dfb3bcd965ff25ea83b4668150058d14015f295a1239755a958437be3445b2c14f8fc373",
+      "role": "admin",
+      "phone": "+91 99999 11111",
+      "auth_provider": "firebase_firestore",
+      "created_at": "2026-09-03T19:28:14Z"
+    }
+  }
+}
