@@ -27,7 +27,7 @@
 # 4. Proxy API routes to the serverless function
 [[redirects]]
   from = "/api/*"
-  to = "/.netlify/functions/app/api/:splat"
+  to = "/.netlify/functions/api/:splat"
   status = 200
 
 # 5. Default SPA / static fallback

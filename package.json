@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "python3 app.py --port 3000 --host 0.0.0.0",
     "start": "python3 app.py --port 3000 --host 0.0.0.0",
-    "build": "python3 -c \"import json, os; from seed_data import SWEETS_CATALOG; os.makedirs('static/data', exist_ok=True); json.dump({'status': 'success', 'sweets': SWEETS_CATALOG}, open('static/data/sweets.json', 'w'), indent=2)\" && mkdir -p dist/static/data dist/api && cp -r templates/* dist/ && cp -r static dist/ && cp static/data/sweets.json dist/static/data/sweets.json && cp static/data/sweets.json dist/api/sweets.json",
+    "build": "python3 -c \"import json, os; from seed_data import SWEETS_CATALOG; os.makedirs('static/data', exist_ok=True); json.dump({'status': 'success', 'sweets': SWEETS_CATALOG}, open('static/data/sweets.json', 'w'), indent=2)\" && mkdir -p dist/static/data dist/api netlify/functions && cp -r templates/* dist/ && cp -r static dist/ && cp static/data/sweets.json dist/static/data/sweets.json && cp static/data/sweets.json dist/api/sweets.json && cp data/store.json netlify/functions/store.json",
     "preview": "python3 app.py --port 3000 --host 0.0.0.0"
   },
   "dependencies": {
